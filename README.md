@@ -17,7 +17,7 @@
 - 🔬 **Research Intern** at NIT Rourkela, building an **AI-assisted swing trading system** (demand/supply zones + XGBoost)
 - 📄 Paper **"The Retail Hope: Profitability Meets Psychological Limits"** accepted at **ISED 2026**
 - ⚙️ I enjoy backend engineering: **FastAPI, PostgreSQL, WebSockets, LLM tool calling and RAG**
-- 🧩 Solved **300+** coding problems · 🏸 District-level badminton player
+- 🧩 Solved **300+** coding problems ·
 
 ---
 
